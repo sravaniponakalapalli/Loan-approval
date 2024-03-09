@@ -2,8 +2,8 @@
 ## Objective
 The objective of the loan approval project is to create an automated system that can accurately predict whether a loan application should be approved or denied based on various applicant characteristics and 
 financial information.
-## Data Sources
-loan Data: The primary dataset used for this analysis is the "loan_data.csv" file, containing detailed information about loan applicants.
+## Dataset
+The dataset used in this project can be found on Kaggle: Loan Status Prediction Dataset. It includes information about loan applicants, such as their income, credit score, loan amount, and loan status.
 ## Tools and Technoligies used
 1. Python: Utilized for data preprocessing, exploratory data analysis, and machine learning model development due to its rich ecosystem of libraries such as Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.
 2. Jupyter Notebooks: Employed for interactive data analysis and model prototyping, facilitating collaboration and documentation of the analysis process.
@@ -17,4 +17,7 @@ EDA involved exploring loan approval data to answer key questions such as:
 -  What are the characteristics of the applicants in the dataset?
 -  Are there any correlations between applicant characteristics and loan approval status?
 -  How do numerical variables (e.g., income, credit score) vary between approved and denied loans?
-
+## Models
+We experimented with different machine learning models, including logistic regression and support vector machines (SVM).
+## Results
+The results of the trained models are evaluated using accuracy as the metric. We visualize the accuracy of each model using bar plots in the notebook
