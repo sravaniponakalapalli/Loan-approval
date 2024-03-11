@@ -3,7 +3,7 @@
 The objective of the loan approval project is to create an automated system that can accurately predict whether a loan application should be approved or denied based on various applicant characteristics and 
 financial information.
 ## Dataset
-The dataset used in this project can be found on Kaggle: Loan Status Prediction Dataset. It includes information about loan applicants, such as their income, credit score, loan amount, and loan status.
+The dataset used in this project can be found on kaggle: [Loan Status Prediction Dataset](https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction). It includes information about loan applicants, such as their income, credit score, loan amount, and loan status.
 ## Tools and Technoligies used
 1. Python: Utilized for data preprocessing, exploratory data analysis, and machine learning model development due to its rich ecosystem of libraries such as Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.
 2. Jupyter Notebooks: Employed for interactive data analysis and model prototyping, facilitating collaboration and documentation of the analysis process.
